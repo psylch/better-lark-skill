@@ -11,13 +11,13 @@
 ### 通过 skills.sh（推荐）
 
 ```bash
-npx skills add psylch/lark-skill -g -y
+npx skills add psylch/better-lark-skill -g -y
 ```
 
 ### 手动安装
 
 ```bash
-git clone https://github.com/psylch/lark-skill.git ~/.claude/skills/lark
+git clone https://github.com/psylch/better-lark-skill.git ~/.claude/skills/lark
 ```
 
 安装后需重启 agent。

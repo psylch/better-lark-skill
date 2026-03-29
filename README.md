@@ -11,13 +11,13 @@ Consolidates 19 separate lark-* skills into a single, modular skill with on-dema
 ### Via skills.sh (recommended)
 
 ```bash
-npx skills add psylch/lark-skill -g -y
+npx skills add psylch/better-lark-skill -g -y
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/psylch/lark-skill.git ~/.claude/skills/lark
+git clone https://github.com/psylch/better-lark-skill.git ~/.claude/skills/lark
 ```
 
 Restart your agent after installation.
