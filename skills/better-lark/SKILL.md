@@ -1,5 +1,5 @@
 ---
-name: lark
+name: better-lark
 description: "飞书/Lark 全功能 CLI skill：即时通讯、云文档、电子表格、多维表格、日历、任务、云空间、邮箱、通讯录、知识库、视频会议、妙记、画板、事件订阅、账号切换。触发词：飞书、lark、feishu、lark-cli、发消息、查日程、创建文档、切换账号、发邮件、搜索员工、多维表格、上传文件、会议纪要、日报、standup。"
 metadata:
   requires:
