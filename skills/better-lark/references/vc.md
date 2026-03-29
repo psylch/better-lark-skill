@@ -8,8 +8,8 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+search` | 搜索会议记录（支持时间/关键词/参与者筛选） | [lark-vc-search.md](lark-vc-search.md) |
-| `+notes` | 获取会议纪要（总结、待办、章节、逐字稿） | [lark-vc-notes.md](lark-vc-notes.md) |
+| `+search` | 搜索会议记录（支持时间/关键词/参与者筛选） | [lark-vc-search.md](vc/search.md) |
+| `+notes` | 获取会议纪要（总结、待办、章节、逐字稿） | [lark-vc-notes.md](vc/notes.md) |
 
 ## 常用流程
 

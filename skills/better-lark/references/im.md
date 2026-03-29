@@ -11,24 +11,24 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+chat-create` | 创建群聊 | [lark-im-chat-create.md](lark-im-chat-create.md) |
-| `+chat-messages-list` | 获取群消息列表 | [lark-im-chat-messages-list.md](lark-im-chat-messages-list.md) |
-| `+chat-search` | 搜索群聊 | [lark-im-chat-search.md](lark-im-chat-search.md) |
-| `+chat-update` | 更新群名/描述 | [lark-im-chat-update.md](lark-im-chat-update.md) |
-| `+messages-mget` | 批量获取消息 | [lark-im-messages-mget.md](lark-im-messages-mget.md) |
-| `+messages-reply` | 回复消息 | [lark-im-messages-reply.md](lark-im-messages-reply.md) |
-| `+messages-resources-download` | 下载消息中的图片/文件 | [lark-im-messages-resources-download.md](lark-im-messages-resources-download.md) |
-| `+messages-search` | 跨群搜索消息 | [lark-im-messages-search.md](lark-im-messages-search.md) |
-| `+messages-send` | 发送消息 | [lark-im-messages-send.md](lark-im-messages-send.md) |
-| `+threads-messages-list` | 获取话题消息列表 | [lark-im-threads-messages-list.md](lark-im-threads-messages-list.md) |
+| `+chat-create` | 创建群聊 | [lark-im-chat-create.md](im/chat-create.md) |
+| `+chat-messages-list` | 获取群消息列表 | [lark-im-chat-messages-list.md](im/chat-messages-list.md) |
+| `+chat-search` | 搜索群聊 | [lark-im-chat-search.md](im/chat-search.md) |
+| `+chat-update` | 更新群名/描述 | [lark-im-chat-update.md](im/chat-update.md) |
+| `+messages-mget` | 批量获取消息 | [lark-im-messages-mget.md](im/messages-mget.md) |
+| `+messages-reply` | 回复消息 | [lark-im-messages-reply.md](im/messages-reply.md) |
+| `+messages-resources-download` | 下载消息中的图片/文件 | [lark-im-messages-resources-download.md](im/messages-resources-download.md) |
+| `+messages-search` | 跨群搜索消息 | [lark-im-messages-search.md](im/messages-search.md) |
+| `+messages-send` | 发送消息 | [lark-im-messages-send.md](im/messages-send.md) |
+| `+threads-messages-list` | 获取话题消息列表 | [lark-im-threads-messages-list.md](im/threads-messages-list.md) |
 
 ## Reactions
 
-表情回复相关 API 见 [lark-im-reactions.md](lark-im-reactions.md)。
+表情回复相关 API 见 [lark-im-reactions.md](im/reactions.md)。
 
 ## 身份选择
 
-群操作的身份选择见 [lark-im-chat-identity.md](lark-im-chat-identity.md)。
+群操作的身份选择见 [lark-im-chat-identity.md](im/chat-identity.md)。
 
 ## 权限
 

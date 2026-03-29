@@ -21,13 +21,13 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+create` | 从 Markdown 创建文档 | [lark-doc-create.md](lark-doc-create.md) |
-| `+fetch` | 获取文档内容 | [lark-doc-fetch.md](lark-doc-fetch.md) |
-| `+update` | 更新文档（追加/覆盖/替换/插入/删除） | [lark-doc-update.md](lark-doc-update.md) |
-| `+search` | 搜索云空间文档 | [lark-doc-search.md](lark-doc-search.md) |
-| `+media-insert` | 插入图片/文件到文档 | [lark-doc-media-insert.md](lark-doc-media-insert.md) |
-| `+media-download` | 下载文档中的媒体 | [lark-doc-media-download.md](lark-doc-media-download.md) |
-| `+whiteboard-update` | 更新画板内容 | [lark-doc-whiteboard-update.md](lark-doc-whiteboard-update.md) |
+| `+create` | 从 Markdown 创建文档 | [lark-doc-create.md](doc/create.md) |
+| `+fetch` | 获取文档内容 | [lark-doc-fetch.md](doc/fetch.md) |
+| `+update` | 更新文档（追加/覆盖/替换/插入/删除） | [lark-doc-update.md](doc/update.md) |
+| `+search` | 搜索云空间文档 | [lark-doc-search.md](doc/search.md) |
+| `+media-insert` | 插入图片/文件到文档 | [lark-doc-media-insert.md](doc/media-insert.md) |
+| `+media-download` | 下载文档中的媒体 | [lark-doc-media-download.md](doc/media-download.md) |
+| `+whiteboard-update` | 更新画板内容 | [lark-doc-whiteboard-update.md](doc/whiteboard-update.md) |
 
 ## 权限
 

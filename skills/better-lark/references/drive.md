@@ -11,9 +11,9 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+upload` | 上传文件 | [lark-drive-upload.md](lark-drive-upload.md) |
-| `+download` | 下载文件 | [lark-drive-download.md](lark-drive-download.md) |
-| `+add-comment` | 添加文档评论 | [lark-drive-add-comment.md](lark-drive-add-comment.md) |
+| `+upload` | 上传文件 | [lark-drive-upload.md](drive/upload.md) |
+| `+download` | 下载文件 | [lark-drive-download.md](drive/download.md) |
+| `+add-comment` | 添加文档评论 | [lark-drive-add-comment.md](drive/add-comment.md) |
 
 ## API Resources
 

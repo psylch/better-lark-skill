@@ -8,10 +8,10 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+agenda` | 快速概览今日/近期行程 | [lark-calendar-agenda.md](lark-calendar-agenda.md) |
-| `+create` | 创建日程并按需邀请参会人 | [lark-calendar-create.md](lark-calendar-create.md) |
-| `+freebusy` | 查询用户主日历的忙闲信息 | [lark-calendar-freebusy.md](lark-calendar-freebusy.md) |
-| `+suggestion` | 针对时间未确定的预约需求，提供多个时间推荐 | [lark-calendar-suggestion.md](lark-calendar-suggestion.md) |
+| `+agenda` | 快速概览今日/近期行程 | [lark-calendar-agenda.md](calendar/agenda.md) |
+| `+create` | 创建日程并按需邀请参会人 | [lark-calendar-create.md](calendar/create.md) |
+| `+freebusy` | 查询用户主日历的忙闲信息 | [lark-calendar-freebusy.md](calendar/freebusy.md) |
+| `+suggestion` | 针对时间未确定的预约需求，提供多个时间推荐 | [lark-calendar-suggestion.md](calendar/suggestion.md) |
 
 ## 常用流程
 

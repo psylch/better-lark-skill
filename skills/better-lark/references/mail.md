@@ -19,17 +19,17 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+triage` | 邮件列表（支持筛选） | [lark-mail-triage.md](lark-mail-triage.md) |
-| `+message` | 读单封邮件 | [lark-mail-message.md](lark-mail-message.md) |
-| `+messages` | 批量读邮件 | [lark-mail-messages.md](lark-mail-messages.md) |
-| `+thread` | 读邮件会话 | [lark-mail-thread.md](lark-mail-thread.md) |
-| `+send` | 发送邮件 | [lark-mail-send.md](lark-mail-send.md) |
-| `+reply` | 回复发件人 | [lark-mail-reply.md](lark-mail-reply.md) |
-| `+reply-all` | 回复所有人 | [lark-mail-reply-all.md](lark-mail-reply-all.md) |
-| `+forward` | 转发邮件 | [lark-mail-forward.md](lark-mail-forward.md) |
-| `+draft-create` | 创建草稿 | [lark-mail-draft-create.md](lark-mail-draft-create.md) |
-| `+draft-edit` | 编辑草稿 | [lark-mail-draft-edit.md](lark-mail-draft-edit.md) |
-| `+watch` | 实时监听新邮件 | [lark-mail-watch.md](lark-mail-watch.md) |
+| `+triage` | 邮件列表（支持筛选） | [lark-mail-triage.md](mail/triage.md) |
+| `+message` | 读单封邮件 | [lark-mail-message.md](mail/message.md) |
+| `+messages` | 批量读邮件 | [lark-mail-messages.md](mail/messages.md) |
+| `+thread` | 读邮件会话 | [lark-mail-thread.md](mail/thread.md) |
+| `+send` | 发送邮件 | [lark-mail-send.md](mail/send.md) |
+| `+reply` | 回复发件人 | [lark-mail-reply.md](mail/reply.md) |
+| `+reply-all` | 回复所有人 | [lark-mail-reply-all.md](mail/reply-all.md) |
+| `+forward` | 转发邮件 | [lark-mail-forward.md](mail/forward.md) |
+| `+draft-create` | 创建草稿 | [lark-mail-draft-create.md](mail/draft-create.md) |
+| `+draft-edit` | 编辑草稿 | [lark-mail-draft-edit.md](mail/draft-edit.md) |
+| `+watch` | 实时监听新邮件 | [lark-mail-watch.md](mail/watch.md) |
 
 ## 权限
 

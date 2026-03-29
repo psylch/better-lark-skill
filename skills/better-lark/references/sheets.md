@@ -4,13 +4,13 @@
 
 | Shortcut | 说明 | 详细文档 |
 |----------|------|---------|
-| `+info` | 获取表格元信息（sheet 列表、行列数） | [lark-sheets-info.md](lark-sheets-info.md) |
-| `+read` | 读取单元格数据 | [lark-sheets-read.md](lark-sheets-read.md) |
-| `+write` | 写入单元格数据 | [lark-sheets-write.md](lark-sheets-write.md) |
-| `+append` | 追加行数据 | [lark-sheets-append.md](lark-sheets-append.md) |
-| `+find` | 查找单元格内容 | [lark-sheets-find.md](lark-sheets-find.md) |
-| `+create` | 创建表格并写入表头和数据 | [lark-sheets-create.md](lark-sheets-create.md) |
-| `+export` | 导出表格文件 | [lark-sheets-export.md](lark-sheets-export.md) |
+| `+info` | 获取表格元信息（sheet 列表、行列数） | [lark-sheets-info.md](sheets/info.md) |
+| `+read` | 读取单元格数据 | [lark-sheets-read.md](sheets/read.md) |
+| `+write` | 写入单元格数据 | [lark-sheets-write.md](sheets/write.md) |
+| `+append` | 追加行数据 | [lark-sheets-append.md](sheets/append.md) |
+| `+find` | 查找单元格内容 | [lark-sheets-find.md](sheets/find.md) |
+| `+create` | 创建表格并写入表头和数据 | [lark-sheets-create.md](sheets/create.md) |
+| `+export` | 导出表格文件 | [lark-sheets-export.md](sheets/export.md) |
 
 ## 常用流程
 
