@@ -60,9 +60,10 @@ lark-cli auth status                                 # 检查状态
 ## 账号切换速查
 
 ```bash
-source ~/.lark-cli/switch.sh <profile>    # 切换
-source ~/.lark-cli/switch.sh              # 列出所有
-lark-cli auth status                      # 验证
+bash ~/.lark-cli/switch.sh <profile>       # 切换（自动续命 token）
+bash ~/.lark-cli/switch.sh                 # 列出所有 + 状态
+bash ~/.lark-cli/switch.sh --keepalive     # 刷新所有 profile 的 token
+lark-cli auth status                       # 验证
 ```
 
 详见 [switch.md](references/switch.md)。
