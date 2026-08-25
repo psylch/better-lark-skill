@@ -12,7 +12,7 @@
 ```bash
 # 创建日程 + 邀请参会人（ISO 8601 时间）
 lark-cli calendar +create \
-  --summary "产品评审" \
+  --summary "与 Alice 做产品评审" \
   --start "2026-03-12T14:00+08:00" \
   --end "2026-03-12T15:00+08:00" \
   --attendee-ids ou_aaa,ou_bbb
@@ -32,10 +32,10 @@ lark-cli calendar +create --summary "..." --start "..." --end "..." \
 
 | 参数 | 必填 | 说明 |
 |------|------|------|
-| `--summary <text>` | 否 | 日程标题。注意：标题中不应该出现时间、地点、人物信息 |
+| `--summary <text>` | 否 | 日程标题。优先保留核心的「和谁、做什么」语义，例如「和宋书涵聊聊」「与 Alice 做产品评审」。避免重复已由结构化字段清楚表达的时间和地点；仅在用户明确要求或存在隐私考虑时省略人物 |
 | `--start <time>` | 是 | 开始时间（ISO 8601，如 `2026-03-12T14:00+08:00`） |
 | `--end <time>` | 是 | 结束时间（ISO 8601） |
-| `--description <text>` | 否 | 日程详细描述。提供会议议程、活动内容、注意事项或链接等。与 summary 配合使用，仅关注当前日程信息 |
+| `--description <text>` | 否 | 日程详细描述。用于补充会议议程、背景、活动内容、注意事项或链接等；不要把标题辨识所需的核心人物或动作只放在 description 中 |
 | `--attendee-ids <id_list>` | 否 | 参与人 ID 列表（逗号分隔）。支持用户（`ou_`）、群组（`oc_`）和会议室（`omm_`）。AI 提取时请务必保留对应前缀 |
 | `--calendar-id <id>` | 否 | 日历 ID（省略则使用主日历） |
 | `--rrule <rrule>` | 否 | 重复日程的重复性规则，规则设置方式参考rfc5545。注意：COUNT 和UNTIL 不支持同时出现。示例值："FREQ=DAILY;INTERVAL=1" |
